@@ -1,3 +1,4 @@
+<h1>1. Numbers and Powers of 2</h1>
 <p>Given a sequence of ASCII characters terminated by '#', convert each continuous sequence of numeric digits in the string to a decimal number.</p>
 <dl>
     <dt>Continuous sequence of numeric digits</dt>
